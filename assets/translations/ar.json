@@ -1,0 +1,11 @@
+{
+  "name": "تبارك",
+  "locale" :"Ar",
+  "email": "إيميل",
+  "full_name": "الاسم الكامل",
+  "password": "كلمة المرور",
+  "confirm_password": "تأكيد كلمة المرور",
+  "sign_up": "إنشاء حساب",
+  "have_account": "لديك حساب؟",
+  "sign_in": "تسجيل الدخول"
+}
