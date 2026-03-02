@@ -1,0 +1,31 @@
+{
+  "signIn": "SIGN IN",
+  "signUp": "SIGN UP",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "fullName": "Full Name",
+  "forgotPassword": "Forgot Password?",
+  "dontHaveAnAccount": "Don't have an account?",
+  "haveAnAccount": "Have an account?",
+  "changePassword": "CHANGE PASSWORD",
+
+  "emailIsRequired": "Email is required",
+  "invalidEmail": "Please enter a valid email address",
+  "emailContainsSpaces": "Email cannot contain spaces",
+
+  "passwordIsRequired": "Password is required",
+  "passwordTooShort6": "Password must be at least 6 characters",
+  "passwordCannotBeEmpty": "Password cannot be empty",
+  "passwordTooShort8": "Password must be at least 8 characters",
+  "passwordNoUppercase": "Password must include at least one uppercase letter",
+  "passwordNoNumber": "Password must include at least one number",
+  "passwordNoSpecialChar": "Password must include at least one special character",
+
+  "confirmPasswordIsRequired": "Please confirm your password",
+  "passwordsDoNotMatch": "Passwords do not match",
+
+  "fullNameIsRequired": "Full name is required",
+  "nameTooShort3": "Name must be at least 3 characters",
+  "nameOnlyNumbers": "Name cannot contain numbers only"
+}

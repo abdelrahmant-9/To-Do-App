@@ -1,0 +1,31 @@
+{
+  "signIn": "تسجيل الدخول",
+  "signUp": "إنشاء حساب",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "fullName": "الاسم الكامل",
+  "forgotPassword": "هل نسيت كلمة المرور؟",
+  "dontHaveAnAccount": "ليس لديك حساب؟",
+  "haveAnAccount": "لديك حساب بالفعل؟",
+  "changePassword": "تغيير كلمة المرور",
+
+  "emailIsRequired": "البريد الإلكتروني مطلوب",
+  "invalidEmail": "من فضلك أدخل بريد إلكتروني صحيح",
+  "emailContainsSpaces": "البريد الإلكتروني لا يجب أن يحتوي على مسافات",
+
+  "passwordIsRequired": "كلمة المرور مطلوبة",
+  "passwordTooShort6": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+  "passwordCannotBeEmpty": "كلمة المرور غير صالحة",
+  "passwordTooShort8": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+  "passwordNoUppercase": "يجب أن تحتوي كلمة المرور على حرف كبير",
+  "passwordNoNumber": "يجب أن تحتوي كلمة المرور على رقم",
+  "passwordNoSpecialChar": "يجب أن تحتوي كلمة المرور على رمز خاص",
+
+  "confirmPasswordIsRequired": "من فضلك أكد كلمة المرور",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+
+  "fullNameIsRequired": "الاسم بالكامل مطلوب",
+  "nameTooShort3": "الاسم يجب أن يكون 3 أحرف على الأقل",
+  "nameOnlyNumbers": "الاسم لا يمكن أن يحتوي على أرقام فقط"
+}
