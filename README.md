@@ -2,21 +2,17 @@
 
 A scalable and production-ready To-Do List application built using **Flutter**, following **Clean Architecture + MVVM**, integrated with **Firebase Authentication** and **Cloud Firestore**.
 
----
-
-# 📱 App Preview
-
 ## 🔐 Authentication Flow
 
 <p align="center">
-  <img src="screenshots/Sign_in.jpg" width="250"/>
-  <img src="screenshots/sign_up.jpg" width="250"/>
-  <img src="screenshots/reset_email.jpg" width="250"/>
+  <img src="assets/screenshots/Sign_in.jpg" width="250"/>
+  <img src="assets/screenshots/sign_up.jpg" width="250"/>
+  <img src="assets/screenshots/reset_email.jpg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/reset_password.jpg" width="250"/>
-  <img src="screenshots/Confirm_reset.jpg" width="250"/>
+  <img src="assets/screenshots/reset_password.jpg" width="250"/>
+  <img src="assets/screenshots/Confirm_reset.jpg" width="250"/>
 </p>
 
 ---
@@ -24,14 +20,14 @@ A scalable and production-ready To-Do List application built using **Flutter**, 
 ## 📝 Task Management
 
 <p align="center">
-  <img src="screenshots/Home_page.jpg" width="250"/>
-  <img src="screenshots/Add_Task.jpg" width="250"/>
-  <img src="screenshots/edit_todo.jpg" width="250"/>
+  <img src="assets/screenshots/Home_page.jpg" width="250"/>
+  <img src="assets/screenshots/Add_Task.jpg" width="250"/>
+  <img src="assets/screenshots/edit_todo.jpg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/delete_todo.jpg" width="250"/>
-  <img src="screenshots/todo_info.jpg" width="250"/>
+  <img src="assets/screenshots/delete_todo.jpg" width="250"/>
+  <img src="assets/screenshots/todo_info.jpg" width="250"/>
 </p>
 
 ---
@@ -39,7 +35,7 @@ A scalable and production-ready To-Do List application built using **Flutter**, 
 ## 👤 Profile
 
 <p align="center">
-  <img src="screenshots/profile.jpg" width="250"/>
+  <img src="assets/screenshots/profile.jpg" width="250"/>
 </p>
 
 ---
