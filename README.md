@@ -4,6 +4,46 @@ A scalable and production-ready To-Do List application built using **Flutter**, 
 
 ---
 
+# 📱 App Preview
+
+## 🔐 Authentication Flow
+
+<p align="center">
+  <img src="screenshots/Sign_in.jpg" width="250"/>
+  <img src="screenshots/sign_up.jpg" width="250"/>
+  <img src="screenshots/reset_email.jpg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/reset_password.jpg" width="250"/>
+  <img src="screenshots/Confirm_reset.jpg" width="250"/>
+</p>
+
+---
+
+## 📝 Task Management
+
+<p align="center">
+  <img src="screenshots/Home_page.jpg" width="250"/>
+  <img src="screenshots/Add_Task.jpg" width="250"/>
+  <img src="screenshots/edit_todo.jpg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/delete_todo.jpg" width="250"/>
+  <img src="screenshots/todo_info.jpg" width="250"/>
+</p>
+
+---
+
+## 👤 Profile
+
+<p align="center">
+  <img src="screenshots/profile.jpg" width="250"/>
+</p>
+
+---
+
 # 📑 Table of Contents
 
 - [Overview](#-overview)
