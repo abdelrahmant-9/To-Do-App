@@ -7,12 +7,12 @@ A scalable and production-ready To-Do List application built using **Flutter**, 
 <p align="center">
   <img src="assets/screenshots/Sign_in.jpg" width="250"/>
   <img src="assets/screenshots/sign_up.jpg" width="250"/>
-  <img src="assets/screenshots/reset_email.jpg" width="250"/>
 </p>
 
 <p align="center">
   <img src="assets/screenshots/reset_password.jpg" width="250"/>
   <img src="assets/screenshots/Confirm_reset.jpg" width="250"/>
+  <img src="assets/screenshots/reset_email.jpg" width="250"/>
 </p>
 
 ---
@@ -26,8 +26,8 @@ A scalable and production-ready To-Do List application built using **Flutter**, 
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/delete_todo.jpg" width="250"/>
   <img src="assets/screenshots/todo_info.jpg" width="250"/>
+  <img src="assets/screenshots/delete_todo.jpg" width="250"/>
 </p>
 
 ---
